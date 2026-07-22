@@ -1,4 +1,7 @@
-# Unique Commit for FutureGwon
+# Hi! I'm FutureGwon
 
-Random data: pppppppppp
-Date: 2026-07-21
+Full-stack developer.
+
+- Node.js, Python, TypeScript
+- - Open source contributor
+  - 
